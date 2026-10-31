@@ -13,6 +13,17 @@ Then visit `http://localhost:5500`.
 ## Deploy
 This is a static site and can be deployed directly to Vercel, Netlify, or GitHub Pages. No build command is required; set the output/root directory to the repository root.
 
+# 🌱 CLIMATRIX
+
+### The Closed-Loop Climate Copilot for Campuses
+
+🚀 **Live Demo:** https://maseeramuzna28.github.io/climatrix/
+
+💻 **GitHub Repository:** https://github.com/maseeramuzna28/climatrix
+
+> Don't just count carbon. Prove your campus is cooler, greener and safer because of what you did.
+
+
 ## What is enhanced in this build
 - Preserves the original six-module CLIMATRIX dashboard and navigation.
 - Adds refined visual hierarchy, hover states, glow details, responsive polish and reduced-motion support.
